@@ -5,7 +5,7 @@ Name : Bharathganesh S
 Reg No : 212222230022
 ```
 ### AIM:
-To To analyze a large real-world COVID-19 dataset using Python and visualize key trends through multiple graphs for meaningful insights.
+To analyze a large real-world COVID-19 dataset using Python and visualize key trends through multiple graphs for meaningful insights.
 
 ### PROCEDURE:
 
